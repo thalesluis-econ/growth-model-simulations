@@ -1,5 +1,5 @@
 # Classical Growth Model with Endogenous Saving Rates
-This Wolfram Mathematica notebook explores the dynamics of a **Classical Growth Model** where saving rates are determined endogenously. Unlike the standard Solow model, this version incorporates a subsistence consumption constraint, leading to non-linear dynamics and the potential for multiple equilibria (poverty traps vs. steady-state growth).
+This **Wolfram Mathematica notebook** explores the dynamics of a **Classical Growth Model** where saving rates are determined endogenously. Unlike the standard Solow model, this version incorporates a subsistence consumption constraint, leading to non-linear dynamics and the potential for multiple equilibria (poverty traps vs. steady-state growth).
 
 ## Theoretical Framework
 The endogenous saving rate is based on the work of King and Rebelo , modeled through a Stone-Geary utility/consumption function. This setup assumes that agents must satisfy a minimum level of consumption before they can begin to save effectively.
