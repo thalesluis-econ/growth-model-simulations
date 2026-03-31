@@ -4,14 +4,14 @@ This **Wolfram Mathematica notebook** explores the dynamics of a **Classical Gro
 ## Theoretical Framework
 The endogenous saving rate is based on the work of King and Rebelo , modeled through a Stone-Geary utility/consumption function. This setup assumes that agents must satisfy a minimum level of consumption before they can begin to save effectively.
 
-Key Parameters:
+## Key Parameters:
 $\alpha$:  Productivity of capital (output elasticity).
-z:  Subsistence consumption level.
-\[Psi]: Subsistence product (minimum required output).
-\[Phi]: Propensity to consume above the subsistence threshold.
+$\tilde{z}$:  Subsistence consumption level.
+$\psi$: Subsistence product (minimum required output).
+$\phi$: Propensity to consume above the subsistence threshold.
 n: Population growth rate.
-\[Delta]: Depreciation rate of capital.
----
+$\delta$: Depreciation rate of capital.
+
 
 ## Notebook Contents
 The notebook is organized into three interactive `Manipulate` sections to visualize the model's mechanics:
